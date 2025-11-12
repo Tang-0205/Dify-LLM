@@ -6,6 +6,8 @@
 
 </div>
 
+[![Built with](https://img.shields.io/badge/Built%20with-Stima%20API-blueviolet?logo=robot)](https://api.stima.tech)
+
 ## ✨ 在 Dify 中使用 Stima API
 1. 帳戶圖標 > 設定 > 模型供應商 > 發現更多 Dify 市場
 2. 選擇 OpenAI-API-compatible 
