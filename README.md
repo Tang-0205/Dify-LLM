@@ -15,6 +15,7 @@
    - Model context size
 
 ## ✨ 模型
+```
 ### 免費模型
 - Open AI / GPT OSS 20B (Free)              ； gpt-oss-20b:free
 - Meta / Llama 3.3 8B Instruct (Free)       ； llama-3.3-8b-instruct:free
@@ -92,3 +93,4 @@
 
 ### OCR
 - DeepSeek / DeepSeek-OCR                   ； deepseek-ocr            ； $0.068
+```
