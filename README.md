@@ -2,6 +2,8 @@
 
 # Dify-LLM X Stima API
 
+[![Built with](https://img.shields.io/badge/Built%20with-Stima%20API-blueviolet?logo=robot)](https://api.stima.tech)
+
 </div>
 
 ## ✨ 在 Dify 中使用 Stima API
